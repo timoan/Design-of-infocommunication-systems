@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\bin\Debug\Command.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\bin\Debug\Command.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\bin\Debug\Command.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\obj\Debug\Command.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.8\Command\Command\obj\Debug\Command.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\bin\Debug\Command.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\bin\Debug\Command.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\bin\Debug\Command.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\obj\Debug\Command.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\9_Command_Calculator\Command\obj\Debug\Command.pdb

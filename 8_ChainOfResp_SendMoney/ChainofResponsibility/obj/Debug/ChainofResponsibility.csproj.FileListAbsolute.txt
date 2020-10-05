@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.7\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\8_ChainOfResponsibility_SendMoney\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb

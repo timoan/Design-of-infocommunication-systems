@@ -1,0 +1,6 @@
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\timos\source\repos\6_TemplateMethod_Progress\TemplateMethod\obj\Debug\TemplateMethod.pdb

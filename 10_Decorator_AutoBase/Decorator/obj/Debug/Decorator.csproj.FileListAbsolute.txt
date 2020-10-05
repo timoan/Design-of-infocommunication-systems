@@ -1,0 +1,19 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.9\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\bin\Debug\Decorator.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\My_works\Практические работы\Практическая работа 4\10_Decorator_AutoBase\Decorator\obj\Debug\Decorator.pdb
