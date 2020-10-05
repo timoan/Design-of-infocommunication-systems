@@ -1,0 +1,12 @@
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\obj\Debug\ConsoleWork.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Домашняя работа\ConsoleWork\ConsoleWork\bin\Debug\ConsoleWork.pdb
