@@ -1,0 +1,6 @@
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\bin\Debug\1_Adapter.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\bin\Debug\1_Adapter.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\bin\Debug\1_Adapter.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\obj\Debug\1_Adapter.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\obj\Debug\1_Adapter.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter\1_Adapter\obj\Debug\1_Adapter.pdb

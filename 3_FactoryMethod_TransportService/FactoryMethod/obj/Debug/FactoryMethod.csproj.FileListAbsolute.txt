@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.3\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\3_FactoryMethod_TransportService\FactoryMethod\obj\Debug\FactoryMethod.pdb

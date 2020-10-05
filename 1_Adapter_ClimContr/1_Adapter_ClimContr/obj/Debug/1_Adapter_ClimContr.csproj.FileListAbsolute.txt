@@ -1,0 +1,6 @@
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\bin\Debug\1_Adapter_ClimContr.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\bin\Debug\1_Adapter_ClimContr.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\bin\Debug\1_Adapter_ClimContr.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\obj\Debug\1_Adapter_ClimContr.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\obj\Debug\1_Adapter_ClimContr.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\1_Adapter_ClimContr\1_Adapter_ClimContr\obj\Debug\1_Adapter_ClimContr.pdb

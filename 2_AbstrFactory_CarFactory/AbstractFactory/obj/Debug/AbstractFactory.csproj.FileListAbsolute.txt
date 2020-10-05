@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.2\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

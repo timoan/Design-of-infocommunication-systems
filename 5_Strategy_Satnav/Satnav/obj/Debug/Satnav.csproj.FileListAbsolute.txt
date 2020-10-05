@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\bin\Debug\Satnav.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\bin\Debug\Satnav.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\bin\Debug\Satnav.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\obj\Debug\Satnav.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\obj\Debug\Satnav.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\obj\Debug\Satnav.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Satnav\Satnav\obj\Debug\Satnav.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\bin\Debug\Satnav.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\bin\Debug\Satnav.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\bin\Debug\Satnav.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\obj\Debug\Satnav.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\obj\Debug\Satnav.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Satnav\Satnav\obj\Debug\Satnav.pdb

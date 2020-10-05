@@ -1,0 +1,6 @@
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\bin\Debug\Singleton.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\bin\Debug\Singleton.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\obj\Debug\Singleton.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\4 _Singleton_Log\Singleton\obj\Debug\Singleton.pdb
