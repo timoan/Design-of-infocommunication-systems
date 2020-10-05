@@ -1,0 +1,13 @@
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\timos\Desktop\The design of ICT systems\Laboratory work\Laboratory_3\lab_3.5\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\bin\Debug\Strategy.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\bin\Debug\Strategy.pdb
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\obj\Debug\Strategy.exe
+C:\Users\timos\OneDrive - ITMO UNIVERSITY\study\Master's degree\01_Проектирование инфокоммуникационных систем\Практическая работа 4\5_Strategy_Sort\Strategy\obj\Debug\Strategy.pdb
